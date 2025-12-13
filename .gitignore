@@ -1,0 +1,25 @@
+# Python / Backend
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.env
+
+# Node.js / Frontend
+node_modules/
+.next/
+out/
+build/
+.DS_Store
+*.log
+.vscode/
+.idea/
+
+# App Specific
+backend/uploads/
